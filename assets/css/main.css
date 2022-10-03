@@ -1997,6 +1997,17 @@ input, select, textarea {
 				padding: 40px 0;
 			}
 
+		/* Member
+
+			#member {
+				margin: 50px;
+				padding: 100px;
+			}
+
+			#member img {
+				width: 25%;
+			} */
+		
 		/* Footer */
 
 			#footer-wrapper {
